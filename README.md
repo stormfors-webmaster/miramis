@@ -1,4 +1,5 @@
 # Miramis Custom Scripts
+for any questions contact felix hellström
 
 A dynamic career page system with job listings, filters, and loading animations.
 
